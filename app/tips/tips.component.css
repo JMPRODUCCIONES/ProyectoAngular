@@ -1,0 +1,36 @@
+#boxtips
+{
+display: grid;
+grid-template-columns: 2fr 2fr ;
+grid-template-rows: 2fr 2fr ;
+grid-row-gap: 10px;
+grid-column-gap: 10px;
+text-align: center;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+ font-weight: bold;
+  font-family: 'Teko', sans-serif;
+width: 100%;
+}
+
+h3{
+
+  border-radius: 12px;
+  color:black;
+  font-family: 'Teko', sans-serif;
+ margin-left: 50px;
+ margin-right: 50px;
+ font-size: 35px;
+ 
+}
+
+p{
+  background-color: rgb(172, 109, 20);
+  color:wheat;
+  font-family: 'Teko', sans-serif;
+margin-left: 50px;
+margin-right: 40px;
+}

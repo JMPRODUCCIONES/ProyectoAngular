@@ -1,0 +1,67 @@
+
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+
+h5 {
+  margin-top: 30px;
+  padding: 0px auto;
+  text-align: center;
+  font-family: 'Teko', sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+ letter-spacing: 1px;
+ text-align: center;
+
+}
+
+.curso_uno{
+margin-left: 90px;
+width: 80%;
+height:60%;
+box-shadow: 9px 9px 20px grey;
+}
+
+.curso_dos{
+  margin-left: 90px;
+  width: 80%;
+  height:60%;
+  box-shadow: 9px 9px 20px grey;
+}
+  .curso_tres{
+    margin-left: 90px;
+    width: 80%;
+    height:60%;
+    box-shadow: 9px 9px 20px grey;
+  }
+    .curso_cuatro{
+      margin-left: 90px;
+      width: 80%;
+      height:60%;
+      box-shadow: 9px 9px 20px grey;
+      }
+      .curso_cinco{
+        margin-left: 90px;
+        width: 80%;
+        height:60%;
+        box-shadow: 9px 9px 20px grey;
+        }
+        .curso_seis{
+          margin-left: 90px;
+          width: 80%;
+          height:60%;
+          box-shadow: 9px 9px 20px grey;}
+
+.card-text {
+  text-align: center;
+  font-family: "yanone";
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-right: 20px;
+}
+
+div
+{
+  margin-bottom: 30px;
+ padding: 0px auto;
+}
